@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.exe
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.pdb
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3_Player.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.exe
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.pdb
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\user\documents\visual studio 2010\Projects\Mp3 Player\Mp3 Player\obj\x86\Debug\Mp3 Player.csproj.ResolveComReference.cache
